@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         quiz database
 // @namespace    https://github.com/0guanhua0/pmp-quiz-helper
-// @version      1.1
+// @version      1.2
 // @description  ucertify COURSE - Project Management Professional (PMP)
 // @author       guanhua
 // @match        *://www.ucertify.com/*
@@ -47,7 +47,7 @@ quiz = {
     ["True"],
   "A project is charged with deploying a new customer relationship management software package, a supporting mobile application, up":
     ["Hybrid for all deliverables"],
-  "A project manager collected metrics such as CPI, SPI, CV, number of defects, and number of tasks done and is now converting and ":
+  "A project manager collected metrics such as CPI, SPI, CV, number of defects, and number of tasks done and is now converting and":
     ["Developing work performance reports"],
   "A project manager diligently measured progress of a project by taking many performance measurements. These measures were promptl":
     [
@@ -62,7 +62,7 @@ quiz = {
       "Add additional resources to the project for additional cost.",
       "Reduce the scope somewhat to keep to the scheduled timeframe.",
     ],
-  "A scatter diagram is most frequently used to demonstrate the relationship between two or more variables and to see the relative ":
+  "A scatter diagram is most frequently used to demonstrate the relationship between two or more variables and to see the relative":
     ["True"],
   "A scrum team is currently too large, causing inefficiencies with completing tasks, and this":
     ["Create two or more smaller teams and organize scrum of scrum meetings."],
@@ -97,7 +97,7 @@ quiz = {
     ["Transition Readiness"],
   "After working on the project lessons learned in a few sessions after the project was done, the program manager suggests to the p":
     ["Lessons learned repository"],
-  "After working with the team for several months, an intern was unclear on the practical use of a scope management plan. The best ":
+  "After working with the team for several months, an intern was unclear on the practical use of a scope management plan. The best":
     [
       "To describe how the scope will be defined, developed, monitored, controlled, and validated.",
     ],
@@ -138,11 +138,11 @@ quiz = {
     ["Determining the best time of day to meet with the client"],
   "As a senior project individual with more experience than many people on your team, you":
     ["Gantt chart", "Milestone chart"],
-  "As a team member, you noticed that the project manager was identifying variances during the retrospective in the last sprint or ":
+  "As a team member, you noticed that the project manager was identifying variances during the retrospective in the last sprint or":
     [
       "Having a private conversation with the individual who caused the variance",
     ],
-  "As part of a project charter you were just reviewing, you noticed that it missed the mark on two key elements of success. Which ":
+  "As part of a project charter you were just reviewing, you noticed that it missed the mark on two key elements of success. Which":
     ["Brevity", "Clarity"],
   "As preparation for your next assignment, a senior mentor has reached out to ask how you":
     ["Earned value management"],
@@ -201,7 +201,7 @@ quiz = {
     ["You are controlling the scope of the project"],
   "By considering the uncertainty level of both the requirements and the technical solution for the project, the project manager re":
     ["Adaptive approach"],
-  "Collaboration with all stakeholders should be a primary focus of the project manager and team. Which of the following is /east l":
+  "Collaboration with all stakeholders should be a primary focus of the project manager and team.":
     [
       "Keeping the agreement alive by engaging stakeholders who support the cause and removing those who do not",
     ],
@@ -213,21 +213,21 @@ quiz = {
       "Misunderstanding",
       "Scope creep",
     ],
-  "Communication has been said to be 90 percent of a project manager's job. When you are communicating with a sensitive topic to a ":
+  "Communication has been said to be 90 percent of a project manager's job. When you are communicating with a sensitive topic to a":
     ["Face-to-face meetings"],
-  "Communication is more than just delivery. Which of the following is nota component to active listening merits?":
+  "Communication is more than just delivery. Which of the following is not a component to active listening merits?":
     ["Preparing to respond as soon as the individual finishes speaking"],
   "Conditions that affect a project but are not within their control due to industry, market, or":
     ["False"],
   "Configuration management may be used for controlling product iterations, product specifications, project documents, standards, a":
     ["True"],
-  "Considering that a specific project team works primarily with a collective and variety of subject matter experts, what might be ":
+  "Considering that a specific project team works primarily with a collective and variety of subject matter experts, what might be":
     [
       "The possibility of a single point of failure due to resources having specific skills",
     ],
   "Continuous improvement tools include the lessons learned, retrospectives, and experimentation (or trying new things).":
     ["True"],
-  "David is managing a high-visibility project, but there is much confusion between stakeholders on the progress and status of the ":
+  "David is managing a high-visibility project, but there is much confusion between stakeholders on the progress and status of the":
     [
       "David should have understood the information needs of the stakeholders and should have sent them only the relevant information t",
     ],
@@ -268,23 +268,23 @@ quiz = {
     ["Decomposition"],
   "During the latest iteration of a project, the team faced a situation that required the leader":
     ["Impediments"],
-  "During the latest software release that was provided to the client, several of the newest employees were confused because there ":
+  "During the latest software release that was provided to the client, several of the newest employees were confused because there":
     ["Backlog burndown"],
   "During the life cycle of the project, an individual must use a number of skills and sometimes improve those skills to meet the t":
     ["A mentor looking to pass along tacit knowledge to the team member"],
   "During the life of the project, an issue arose, but the team found a way to reduce the impact, implemented it, and documented it":
     ["Preventive action"],
-  "During the progress of making a new service protocol, the team has become aware of an outside supplier, for current work, which ":
+  "During the progress of making a new service protocol, the team has become aware of an outside supplier, for current work, which":
     [
       "Do what is possible to reduce the impact of the risk by shifting a few team members to locate and secure another supplier.",
     ],
   "During your HR software implementation project, two project team members are have difficulty working together. They come to you,":
     ["Balanced matrix"],
-  "During your assembly line software implementation project, you find that training is not progressing as quickly as the schedule ":
+  "During your assembly line software implementation project, you find that training is not progressing as quickly as the schedule":
     [
-      "The quality and schedule are being negatively impacted. To fix the situation, you likely have to hire more experienced trainers ",
+      "The quality and schedule are being negatively impacted. To fix the situation, you likely have to hire more experienced trainers",
     ],
-  "Earlier on this project, your team lead expressed concerns that a vendor may delay shipment of some vital raw materials for the ":
+  "Earlier on this project, your team lead expressed concerns that a vendor may delay shipment of some vital raw materials for the":
     ["Contingency reserves because this is a known risk"],
   "Early in the project formation, the team begins to seek out stakeholders and specific requirements for their needs. Of the follo":
     [
@@ -306,13 +306,13 @@ quiz = {
     [
       "The typical feedback should come in formal survey format to avoid confusion.",
     ],
-  "For the first time, you have been asked to select a supplier, but before doing so are interested in noting the source selection ":
+  "For the first time, you have been asked to select a supplier, but before doing so are interested in noting the source selection":
     ["Team location"],
   "For the last week, the team has been assessing what it would take to design the product inside the group but also has received b":
     ["Make-or-buy analysis"],
   "For the past many months, the team has worked with little direction from the project manager. The team gets together and determi":
     ["True"],
-  "From iteration to iteration, a team will face challenges. The project leader will focus on helping the team members to overcome ":
+  "From iteration to iteration, a team will face challenges. The project leader will focus on helping the team members to overcome":
     ["Spike"],
   "Global projects now require resources that did not meet the expectations of project managers years ago. They require more flexib":
     ["Caves and commons"],
@@ -320,7 +320,7 @@ quiz = {
     ["False"],
   "How does a project manager role differ from a Scrum master and product owner on hybrid agile projects?":
     [
-      "The project manager is focused on the overall project performance. The Scrum master is focused on guiding the core team through ",
+      "The project manager is focused on the overall project performance. The Scrum master is focused on guiding the core team through",
     ],
   "How would you best classify the cost of raw materials on a project?": [
     "Direct",
@@ -375,7 +375,7 @@ quiz = {
     ],
   "It is in any project team's best interest to be aware of major risks and have a mental awareness of how certain risk events will":
     ["Quality plan"],
-  "It would come as no surprise that most projects involve a large series of contracts to confirm expectations of the work and who ":
+  "It would come as no surprise that most projects involve a large series of contracts to confirm expectations of the work and who":
     ["Letter of intent", "Memorandum of understanding"],
   "It's near the end of the day and you are frustrated to see that previous team members have taken shortcuts to coding, causing in":
     ["Bring this up at the next daily standup meeting"],
@@ -384,7 +384,7 @@ quiz = {
   "Iterative scheduling with the team allows for all of the following": [
     "Determination of an exact delivery date based on the number of points completed and remaining",
   ],
-  "Knowledge transfer occurs between team members both intentionally and unintentionally. The organization will benefit least from ":
+  "Knowledge transfer occurs between team members both intentionally and unintentionally. The organization will benefit least from":
     ["Templates for all portions of the process to expedite the work"],
   "Last-minute changes were made recently to the training plan due to additional scope requirements. This is an acceptable choice t":
     ["True"],
@@ -393,12 +393,12 @@ quiz = {
   "Many parties are involved in delivering most projects. When you are dealing with a client":
     ["Project team member", "Scrum master"],
   "Many subsidiary plans of a project could include combinations of skill. When you are":
-    ["Supplier notified of formal acceptance by project team"],
+    ["Supplier selection criteria revised during execution"],
   "Many times, in a risk register, the team is looking to categorize risk to respond to the potential upside or downside outcomes m":
     [
       "Noting any regulations that arise due to industry advances in new technology",
     ],
-  "Moving from a common workspace to remote work has been more common for several years. There are a number of advantages for both ":
+  "Moving from a common workspace to remote work has been more common for several years. There are a number of advantages for both":
     ["Increases the level of communication and trust"],
   "Of the following elements of a lessons learned exercise in a preplanned home renovation project, in a town you will likely not w":
     ["City building code lessons learned"],
@@ -476,7 +476,7 @@ quiz = {
     ["Corrective action"],
   "One of the most popular methods to determine time and cost components of the quality question in projects is the earned value me":
     ["True"],
-  "One of the skills that a project manager must include in their toolbox is helping to identify and fill in the gaps for a team's ":
+  "One of the skills that a project manager must include in their toolbox is helping to identify and fill in the gaps for a team's":
     ["True"],
   "One of the tools used in more lean projects is that of a value stream map. Of the":
     ["Estimates of product contracts involved"],
@@ -506,7 +506,7 @@ quiz = {
     ],
   "Phase gates tend to be a tool used to approve work at various completion points":
     ["True"],
-  "Phases within a project may be sequential, overlapping, or a series of sequential and then overlapping, or overlapping and then ":
+  "Phases within a project may be sequential, overlapping, or a series of sequential and then overlapping, or overlapping and then":
     ["True"],
   "Predictive teams frequently have a deadline for the overall project deliverable and don't have a lot of flexibility. For this re":
     ["Gantt chart", "Network diagram"],
@@ -570,7 +570,7 @@ quiz = {
     ["The WBS shows dependencies between work packages."],
   "Senior management is asking you for advice on an upcoming project. This project is very different from what the organization has":
     ["We should use a hybrid approach"],
-  "Senior management is looking to see whether an Agile approach would be a good option for the upcoming project and is asking you ":
+  "Senior management is looking to see whether an Agile approach would be a good option for the upcoming project and is asking you":
     [
       "Agile works best in a constantly changing business environment where small teams determine the work that will be accomplished",
     ],
@@ -606,7 +606,7 @@ quiz = {
     ],
   "The approach of management by objectives is a tool participants use to measure each outcome by set checkpoints with the customer":
     ["False"],
-  "The appropriate governance for your project will likely be unique for each project; therefore, the project team members will be ":
+  "The appropriate governance for your project will likely be unique for each project; therefore, the project team members will be":
     ["False"],
   "The concept of continuous improvement attends to uniform sales and consistent design, and maintains product quality.":
     ["False"],
@@ -669,7 +669,7 @@ quiz = {
     ["False"],
   "The product owner has just accepted the deliverable of the sprint. What will be the next step for the team?":
     ["Sprint retrospective"],
-  "The product roadmap is a strategic document that gives direction on how a product, service, or result will be delivered to meet ":
+  "The product roadmap is a strategic document that gives direction on how a product, service, or result will be delivered to meet":
     ["True"],
   "The project leader for any multinational organization should be focused on communication, openness, and diversity of staff to as":
     ["True"],
@@ -687,7 +687,7 @@ quiz = {
     ["Phase gate and kill point"],
   "The project team has noted that they are having a difficult time acquiring as many staff members as they need This is especially":
     ["Enterprise environmental factors"],
-  "The project team you manage is used to hybrid projects and shares both predictive and adaptive/agile tools with each other. The ":
+  "The project team you manage is used to hybrid projects and shares both predictive and adaptive/agile tools with each other. The":
     ["Burnup chart", "Task board"],
   "The project you are working on has had modifications to the plan from the start and even how the project is run. Project governa":
     ["Naming the project manager"],
@@ -716,7 +716,7 @@ quiz = {
   ],
   "The team facilitator is discussing with key stakeholders the status of the project and showing them the tasks that are remaining":
     ["Kanban board"],
-  "The team has been assigned to a complex detail and is looking to determine the exact delivery date for the detail. Team members ":
+  "The team has been assigned to a complex detail and is looking to determine the exact delivery date for the detail. Team members":
     ["False"],
   "The team has been complaining to the manager about too many graphs and charts provided during meetings. The team wants more time":
     ["Email communication pushed to a database"],
@@ -726,13 +726,13 @@ quiz = {
     ],
   "The team has just completed an unstructured brainstorming session and determined that the ideas may fall into a series of catego":
     ["Affinity diagramming"],
-  "The team has settled down to another end of iteration discussion about what went well and what did not. They are looking at the ":
+  "The team has settled down to another end of iteration discussion about what went well and what did not. They are looking at the":
     ["False"],
   "The team is demonstrating the minimum business increment to key stakeholders. More than likely, which ceremony is being performe":
     ["Sprint review"],
   "The team is focused on delivering as close to their project budget estimate as possible. Which method would be the most appropri":
     ["Bottom-up estimating"],
-  "The team is made up of many experts in various areas of the project. Frequently, the project manager is comfortable with giving ":
+  "The team is made up of many experts in various areas of the project. Frequently, the project manager is comfortable with giving":
     ["Autocratic"],
   "The team is waiting on a customer to provide raw materials so that the project can move forward. Without the materials, the team":
     ["External", "Mandatory"],
@@ -740,7 +740,7 @@ quiz = {
     ["Explicit knowledge", "Tacit knowledge"],
   "The team is working on determining the order and linkage between tasks on the project. There is a field survey going on that rea":
     ["Finish-to-finish relationship"],
-  "The team is working on developing a new cellular telephone. Which of the following options would most likely fall under project ":
+  "The team is working on developing a new cellular telephone. Which of the following options would most likely fall under project":
     [
       "Identifying exclusions that will not be provided by the project team such as",
       "Specific deliverable work components such as defining the case, glass, and",
@@ -775,7 +775,7 @@ quiz = {
   "The use of a product backlog would be an agile artifact.": ["True"],
   "The use of shared task boards, videoconferencing, lessons learned repositories, and chat functions all increase collaboration.":
     ["True"],
-  "There are different factors causing a particular issue, and you want to find the root cause. You look at a chart that lists all ":
+  "There are different factors causing a particular issue, and you want to find the root cause. You look at a chart that lists all":
     ["Statistical sampling"],
   "There are many potential places for risk to pop up. The team needs to be mindful throughout the entire project that new risks ma":
     ["Scope-based risk classification"],
@@ -789,7 +789,7 @@ quiz = {
     ["Pull", "Push"],
   "There are quite a few ways to rank the requirements and expectations for a project's outcome. Which of the following would be us":
     ["Kano model", "MoSCoW analysis"],
-  "There have been several discussions about making sure that every one of the product requirements is satisfied. This is the last ":
+  "There have been several discussions about making sure that every one of the product requirements is satisfied. This is the last":
     ["Requirement validation"],
   "There is a recent college graduate on your team, and this team member is curious about the team charter. They share with you tha":
     ["False"],
@@ -800,9 +800,9 @@ quiz = {
     ],
   "Throughout the life of a project, you are focused on assuring the stakeholders get the right information at the right time. Whic":
     ["Records for project duration"],
-  "Throughout the life of an agile project, there will be needs to update, remove, or reorganize the product life cycle. The terms ":
+  "Throughout the life of an agile project, there will be needs to update, remove, or reorganize the product life cycle. The terms":
     ["Grooming", "Refinements"],
-  "Throughout the life of the project, you have taken short spurts of time to work with the team to capture improvements in how to ":
+  "Throughout the life of the project, you have taken short spurts of time to work with the team to capture improvements in how to":
     ["End-of-iteration retrospectives with the team"],
   "Throughout the project life cycle, your project manager has repeatedly emphasized how important it is for the team to observe an":
     [
@@ -816,13 +816,13 @@ quiz = {
     ["True"],
   "Training artifacts include components such as courseware, lab configurations, pre-tests":
     ["True"],
-  "Two team members disagree about the purpose of the lessons learned exercise that occurs occasionally during the project. All of ":
+  "Two team members disagree about the purpose of the lessons learned exercise that occurs occasionally during the project. All of":
     ["It will be highly beneficial for the short term as a learning tool."],
-  "Two team members from different parts of the world are having a conversation, but both are misinterpreting gestures and phrases ":
+  "Two team members from different parts of the world are having a conversation, but both are misinterpreting gestures and phrases":
     ["Noise"],
   "Use of a Gantt chart is primarily to show the work packages, sequencing, relationships, and resources in a visual format for fas":
     ["True"],
-  "Value delivery is about making sure that the customer or client receives benefit and the efforts of the team focus only on work ":
+  "Value delivery is about making sure that the customer or client receives benefit and the efforts of the team focus only on work":
     ["False"],
   "Video conferencing is a type of which communication method?": [
     "Interactive",
@@ -855,7 +855,7 @@ quiz = {
   "What are some management principles that can maximize team performance?": [
     "Set clear expectations, recognize and reward, facilitate team synergy",
   ],
-  "What are some of the reasons organizations do not leverage quantitative risk analysis during the risk analysis process? (Choose ":
+  "What are some of the reasons organizations do not leverage quantitative risk analysis during the risk analysis process? (Choose":
     [
       "It requires a solid baseline for scope, schedule, and cost.",
       "It requires additional time and investment.",
@@ -930,7 +930,7 @@ quiz = {
   ],
   "What is the difference between an incremental and iterative development approach?":
     [
-      "Iterative development is used when progressive elaboration is needed to clarify and refine an initial idea, concept, or vision. ",
+      "Iterative development is used when progressive elaboration is needed to clarify and refine an initial idea, concept, or vision.",
     ],
   "What is the difference between project life cycles and development life cycles?":
     [
@@ -944,7 +944,7 @@ quiz = {
     "To prioritize and rank the identified risks so the project can focus on the high-priority risks",
   ],
   "What is the primary value of planning resource management for a project?": [
-    "To establish the approach and the management effort level needed for managing project resources based on type and complexity of ",
+    "To establish the approach and the management effort level needed for managing project resources based on type and complexity of",
   ],
   "What is the relationship between a project and a product?": [
     "A project creates a product.",
@@ -965,7 +965,7 @@ quiz = {
   ],
   "When a member of an organization decides to delay deciding on an urgent issue":
     ["True"],
-  "When calculating the cost performance index of the project at any point during the life of the project, which formula would you ":
+  "When calculating the cost performance index of the project at any point during the life of the project, which formula would you":
     ["Earned value divided by the actual cost"],
   "When calculating the schedule variance of a project that is around 60 percent complete, which formula would you use?":
     ["Earned value minus the planned value"],
@@ -1013,7 +1013,7 @@ quiz = {
     ["Risk avoidance and risk mitigation"],
   "When the team is working with a client who prefers to avoid risk, they need to measure":
     ["Risk appetite", "Risk threshold"],
-  "When using a RACI chart, which of the following would a nonsponsor executive most likely be labeled during the period when work ":
+  "When using a RACI chart, which of the following would a nonsponsor executive most likely be labeled during the period when work":
     ["Inform"],
   "When working with the software development team, the organization has determined that the best way to improve productivity is th":
     ["Autonomy", "Teamwork"],
@@ -1032,10 +1032,10 @@ quiz = {
       "There should be an improved focus on the value delivered from the project.",
     ],
   "When you are dealing with a specific conflict in an organization, of the following, which would be considered the best resolutio":
-    [" Collaboration/Problem solving"],
+    ["Collaboration/Problem solving"],
   "When you are evaluating business value provided to the end user or customer, which of the following may be excluded as least rel":
     [
-      " Your team has collected significant information to allow your organization to become more efficient.",
+      "Your team has collected significant information to allow your organization to become more efficient.",
     ],
   "When you are evaluating options for user preferences on requirements, which of the following is true about A/B testing?":
     ["It is used to optimize the solutions preferred by stakeholders."],
@@ -1286,7 +1286,7 @@ quiz = {
   "Which of the following would you not find on an information radiator for an agile team?":
     ["Gantt chart"],
   "Which of these is an example of a user story?": [
-    "As a call center analyst, I want to input customers' first and last names and postal codes so that I can pull up their accounts ",
+    "As a call center analyst, I want to input customers' first and last names and postal codes so that I can pull up their accounts",
   ],
   "Which option best describes the factors that need to be considered when determining the development approach for a project?":
     ["All pertinent deliverable, project, and organizational variables"],
@@ -1316,7 +1316,7 @@ quiz = {
       "Seeks growth and improvement in all team members",
       "Takes the perspective of others and maintains the best interest of others",
     ],
-  "Which tools can be used by a project manager to assess the fit for any potential candidate for a project role? (Choose all that ":
+  "Which tools can be used by a project manager to assess the fit for any potential candidate for a project role? (Choose all that":
     ["Ability tests", "Attitudinal surveys", "Structured interviews"],
   "While you are working on a long-term construction project, certain paths and activities are not crucial to start at the earliest":
     ["True"],
@@ -1374,11 +1374,11 @@ quiz = {
     ["Three-point estimating"],
   "You are comparing actual results to the plan and making calculations to determine the project''s rate of performance. What are y":
     ["Controlling costs"],
-  "You are currently working on a new and unique project requirement. The team recognizes the potential for all sorts of things to ":
+  "You are currently working on a new and unique project requirement. The team recognizes the potential for all sorts of things to":
     ["Known unknown"],
   "You are delivering a cost estimate to your customers, and it has taken some time to estimate. However, the customers are pleased":
     ["Bottom-up estimating"],
-  "You are determined to acquire a high-quality team of individuals who will support the effort from the external client. You will ":
+  "You are determined to acquire a high-quality team of individuals who will support the effort from the external client. You will":
     ["Subject matter experts involved with advanced certifications"],
   "You are determining your stakeholders' current engagement levels compared to where you want them to be. Which of the following w":
     ["Stakeholder engagement assessment matrix"],
@@ -1404,7 +1404,7 @@ quiz = {
     ["Parametric estimating"],
   "You are in a meeting with your team members and are discussing the acceptable tolerance levels regarding the quality of delivera":
     ["They should consult the quality management plan."],
-  "You are in a meeting with your team members, and some key stakeholders are observing. The team is discussing what went well and ":
+  "You are in a meeting with your team members, and some key stakeholders are observing. The team is discussing what went well and":
     ["Sprint retrospective"],
   "You are in the process of administrative closure and have collected project records, ensured vendor contracts are closed, and pr":
     ["Archive project documents"],
@@ -1414,7 +1414,7 @@ quiz = {
     ],
   "You are managing 15 analysts and developers on your project, but 2 more are added. How many more communication channels are ther":
     ["33"],
-  "You are managing a construction project for an office building and need 10,000 square feet of carpeting. The customer prefers a ":
+  "You are managing a construction project for an office building and need 10,000 square feet of carpeting. The customer prefers a":
     ["RFQ"],
   "You are managing a large Agile project and have advised senior management that because Agile teams are generally small, the best":
     ["Create regular scrum of scrum meetings"],
@@ -1440,7 +1440,7 @@ quiz = {
     [
       "You should use resource smoothing to ensure team members are optimally utilized.",
     ],
-  "You are managing a small construction project, and one of the team leads informs you that there is a problem with the plumbing, ":
+  "You are managing a small construction project, and one of the team leads informs you that there is a problem with the plumbing,":
     ["Perform an impact assessment."],
   "You are managing an Agile project and working with the team to determine the work for each sprint. When will your team most like":
     ["During the daily standup meeting"],
@@ -1464,7 +1464,7 @@ quiz = {
     ["The customer is validating scope"],
   "You are the manager on a project to build a new wing for the local hospital. The ribbon-cutting ceremony is set, and many high-p":
     ["Finding the additional resources to perform the work"],
-  "You are the project manager of a new project, and you know from past experience that one of the key stakeholders on the project ":
+  "You are the project manager of a new project, and you know from past experience that one of the key stakeholders on the project":
     [
       "Involve the stakeholder as early as possible and request their input regularly throughout the project.",
     ],
@@ -1474,7 +1474,7 @@ quiz = {
     ],
   "You are the project manager on a new project that was just kicked off. The team is evaluating the work to be completed. One indi":
     ["Current project risk register"],
-  "You are the team facilitator of an inexperienced but motivated agile team. The team is asking about the methods they should use ":
+  "You are the team facilitator of an inexperienced but motivated agile team. The team is asking about the methods they should use":
     [
       "They should use Paired Comparison to prioritize various factors at a time.",
       "They should use the 100-Point Method, which distributes 100 points across the user stories",
@@ -1493,8 +1493,8 @@ quiz = {
   "You have a dispute with one of your vendors regarding the work they completed and the work that was agreed to. What should you d":
     ["Refer to the contract with the vendor."],
   "You have a new employee who has no experience with projects. This person has never dealt with quality either. When discussing le":
-    ["Dejure regulations"],
-  "You have an expected activity duration of 26 days, optimistic value of 18 days, and pessimistic value of 67 days. Calculate the ":
+    ["De jure regulations"],
+  "You have an expected activity duration of 26 days, optimistic value of 18 days, and pessimistic value of 67 days. Calculate the":
     ["26 days"],
   "You have been dealing with a client who requests changes frequently, despite there being a detailed initial plan in place with s":
     [
@@ -1508,7 +1508,7 @@ quiz = {
     ["Update the requirements management plan."],
   "You have been reassigned to an existing project replacing the current project manager who has left the organization. You want to":
     ["Review the quality management plan."],
-  "You have been reassigned to manage a project after the original PM suddenly quit. As you begin to familiarize yourself with the ":
+  "You have been reassigned to manage a project after the original PM suddenly quit. As you begin to familiarize yourself with the":
     ["The original PM should have created a requirements traceability matrix."],
   "You have been told to use the critical path method using the zero-method rule with a tolerance limit of +/- 10 percent. Where wo":
     ["Schedule management plan"],
@@ -1524,7 +1524,7 @@ quiz = {
     ["Pull"],
   "You have decided to outsource an activity to a preferred vendor. Which of the following is true?":
     ["This is known as single source contracting."],
-  "You have decided to outsource the work and sign a CPPC contract with a vendor. What will be your biggest concern throughout the ":
+  "You have decided to outsource the work and sign a CPPC contract with a vendor. What will be your biggest concern throughout the":
     ["Cost"],
   "You have hired a vendor to perform certain activities on your project. Which of the following is not true regarding early termin":
     ["Your vendor can terminate the contract for convenience."],
@@ -1538,13 +1538,13 @@ quiz = {
     ],
   "You need to clear a parking lot covered in snow and decide one person should start clearing the snow before the other person sta":
     ["Start to start"],
-  "You need to develop a new website for a large customer that is in the business of selling many types of household products. You ":
+  "You need to develop a new website for a large customer that is in the business of selling many types of household products. You":
     ["Analogous estimating"],
-  "You need to purchase 500 windows of equal size for a hotel construction project. What type of bid document should you submit to ":
+  "You need to purchase 500 windows of equal size for a hotel construction project. What type of bid document should you submit to":
     ["RFQ"],
   "You notice that one of the machines on the production line is working inefficiently and has produced several defects. Some of th":
     ["Corrective action"],
-  "You notice that two team members are having a really hard time implementing their user stories. As you investigate further, you ":
+  "You notice that two team members are having a really hard time implementing their user stories. As you investigate further, you":
     ["Break down the large user stories into smaller user stories."],
   "You were assigned as the project manager for the ISHU project and well into the":
     [
@@ -1556,11 +1556,11 @@ quiz = {
     ["Contract types used for subject matter experts in the closing phase"],
   "Your current project team has been working for some time on the involvement from all":
     [
-      "The individual who has been provided several communications about the longterm effects, but when you ask their opinion, seems su",
+      "The individual who has been provided several communications about the long-term effects",
     ],
   "Your customer has approached you and told you that you now need to finish the project two weeks earlier than anticipated. What d":
     ["You have a negative float of two weeks."],
-  "Your customer is requesting a detailed and accurate cost estimate for an upcoming deliverable. Which of the following would you ":
+  "Your customer is requesting a detailed and accurate cost estimate for an upcoming deliverable. Which of the following would you":
     ["Bottom-up estimating"],
   "Your functional manager has told you that she will be responsible for making all key decisions on the project, but you will have":
     ["Project coordinator"],
@@ -1576,13 +1576,13 @@ quiz = {
     ["You are under budget but behind schedule."],
   "Your project has a CPI of 1.09 and SPI of 1.06. You have a CV of $34,300 and an SV of $29,200. Your clients have a strict deadli":
     [
-      "Your project is under budget and ahead of schedule, so the clients have nothing to worry about at this stage. You should inform ",
+      "Your project is under budget and ahead of schedule, so the clients have nothing to worry about at this stage. You should inform",
     ],
   "Your project has a tight deadline, and planning needs to start immediately; otherwise, there may be risks of delays. The sponsor":
     [
       "Explain the urgency of the situation to the sponsor but do not start work until you have a signed project charter.",
     ],
-  "Your project is currently over budget and behind schedule, and you are looking at the stakeholder engagement assessment matrix. ":
+  "Your project is currently over budget and behind schedule, and you are looking at the stakeholder engagement assessment matrix.":
     ["The C and D are in different columns."],
   "Your project is running behind schedule, but you have plenty of float on some activities. You decide to move resources from nonc":
     ["Resource smoothing"],
@@ -1594,9 +1594,9 @@ quiz = {
     ["True"],
   "Your senior stakeholders want you to select a small local vendor to perform an activity that you are planning to outsource. Whic":
     ["This is source selection criteria."],
-  "Your software development project is reaching its end. This is a completely new system that is replacing the old legacy system, ":
+  "Your software development project is reaching its end. This is a completely new system that is replacing the old legacy system,":
     ["Ensure the organization is ready to go live."],
-  "Your team has been using Kanban for the duration of your current project. One of the participants who just joined the team asks ":
+  "Your team has been using Kanban for the duration of your current project. One of the participants who just joined the team asks":
     ["It works well for complex dependency relationships."],
   "Your team has been working on a construction project with a well-defined structure, cost, and schedule. Several mistakes and som":
     ["Gather the team and enter the lessons learned into a register."],
@@ -1604,7 +1604,7 @@ quiz = {
     ["Hybrid methods"],
   "Your team is in the testing phase of a project, and they have identified test cases and scenarios and are now performing tests t":
     ["Audit"],
-  "Your team is on track to finish your project by the end of the year, but your customer informs you that due to a new discovery, ":
+  "Your team is on track to finish your project by the end of the year, but your customer informs you that due to a new discovery,":
     ["Scope statement"],
   "Your team is using an adaptive methodology and planning the current release. Which of the following would be the most relevant h":
     ["Product roadmap"],

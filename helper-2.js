@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Highlight Correct Answers
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Highlight correct answers and store them in a quiz object
-// @author       Your Name
-// @match        https://www.ucertify.com/*  // Update the URL to match your site
-// @grant        none
+// @author       guanhua
+// @match        *://www.ucertify.com/*
+// @grant        GM_notification
 // ==/UserScript==
 
 (function () {
