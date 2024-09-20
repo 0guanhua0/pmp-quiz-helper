@@ -1,0 +1,33 @@
+name: bug
+description: bug report
+title: "[bug]: "
+labels: ["bug", "triage"]
+projects: ["0guanhua0/pmp-quiz-helper"]
+assignees:
+  - 0guanhua0
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: details
+      description: |
+        Describe the bug and upload screenshots.
+
+        Attach the full HTML DOM to help debug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: version
+    attributes:
+      label: version
+      description: script version
+    validations:
+      required: true
+
+  - type: textarea
+    id: browser
+    attributes:
+      label: browser version
+    validations:
+      required: true

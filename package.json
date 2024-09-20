@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format": "node formatQuiz.js && prettier --write '**/*.js'"
+  },
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}

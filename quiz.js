@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         quiz database
-// @namespace    https://github.com/0guanhua0/pmp-quiz-helper
-// @version      1.2
-// @description  ucertify COURSE - Project Management Professional (PMP)
-// @author       guanhua
-// @match        *://www.ucertify.com/*
-// @grant        none
-// ==/UserScript==
-
 quiz = {
   "A Pareto chart is used for ranking causes of problems from greatest to smallest with a cumulative curve above it but does not de":
     ["True"],
