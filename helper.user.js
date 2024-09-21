@@ -16,7 +16,11 @@
 
   function normalizeText(text) {
     console.log("Normalizing text:", text);
-    return text.replace(/’/g, "'").replace(/–/g, "-");
+    return text
+      .replace(/’/g, "'")
+      .replace(/–/g, "-")
+      .replace(/“/g, '"')
+      .replace(/”/g, '"');
   }
 
   // find a quiz key that matches part of the question

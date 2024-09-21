@@ -32,3 +32,19 @@ please file issues for support
 ai can help development, but it can introduce bugs. these kind of bugs are hard to debug because it seems correct.
 
 ai can provide general suggestions, but final decision should base on the project context.
+
+for text app, it's hard to deal with special characters. for example
+```javascript
+function normalizeText(text) {
+  console.log("Normalizing text:", text);
+  return text
+    .replace(/’/g, "'")
+    .replace(/–/g, "-")
+    .replace(/“/g, '"')
+    .replace(/”/g, '"');
+}
+```
+
+possible solution:
+- hash. but it's exact match, so any change will break
+- ai. this add flexibility, but add extra cost
