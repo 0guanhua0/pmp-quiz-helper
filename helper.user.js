@@ -5,7 +5,6 @@
 // @description  quiz helper for ucertify Project Management Professional (PMP)
 // @author       guanhua
 // @match        *://www.ucertify.com/*
-// @grant        GM_notification
 // @require      https://raw.githubusercontent.com/0guanhua0/pmp-quiz-helper/main/quiz.js
 // ==/UserScript==
 

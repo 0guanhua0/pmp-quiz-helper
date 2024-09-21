@@ -1,11 +1,13 @@
 const fs = require("fs");
 const path = require("path");
 
-const MAX_LEN = 128;
-
-// Function to truncate and trim a string to MAX_LEN characters
-function truncateAndTrim(str) {
-  return str.trim().slice(0, MAX_LEN);
+function normalizeText(text) {
+  return text
+    .trim()
+    .replace(/’/g, "'")
+    .replace(/–/g, "-")
+    .replace(/“/g, '"')
+    .replace(/”/g, '"');
 }
 
 // Function to sort and format the quiz
@@ -13,12 +15,15 @@ function formatQuiz(quiz) {
   const sortedQuiz = {};
 
   // Sort keys alphabetically, trim, and truncate them
-  const sortedKeys = Object.keys(quiz).map(truncateAndTrim).sort();
+  const sortedKeys = Object.keys(quiz).map(normalizeText).sort();
 
   // Process each key-value pair
   sortedKeys.forEach((key) => {
     // Sort, trim, and truncate the array of values
-    let values = quiz[key].sort();
+    let values = quiz[key]
+      .map((item) => item.trim())
+      .map(normalizeText)
+      .sort();
 
     // Add sorted key-value pair to the result
     sortedQuiz[key] = values;

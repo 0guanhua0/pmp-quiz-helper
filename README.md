@@ -24,6 +24,11 @@ if error, retake can refresh the score
 ## support
 please file issues for support
 
+or to modify the database quiz.js, always run the check
+```shell
+guanhua@arch ~/pmp-quiz-helper (git)-[main] % npm run format
+```
+
 ## roadmap
 - [ ] use cv to get info. for text app, use [ocr](https://en.wikipedia.org/wiki/Optical_character_recognition)
 - [ ] use ai to understand the context and answer the question
@@ -48,3 +53,5 @@ function normalizeText(text) {
 possible solution:
 - hash. but it's exact match, so any change will break
 - ai. this add flexibility, but add extra cost
+
+it's stupid to code database because it's easy to mess up and hard to debug. always run the full check before and after the change. i use .js as database just to make it easy for tampermonkey to pull the dependency.
