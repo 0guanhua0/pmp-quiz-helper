@@ -18,7 +18,7 @@ function formatQuiz(quiz) {
   // Process each key-value pair
   sortedKeys.forEach((key) => {
     // Sort, trim, and truncate the array of values
-    let values = quiz[key].map(truncateAndTrim).sort();
+    let values = quiz[key].sort();
 
     // Add sorted key-value pair to the result
     sortedQuiz[key] = values;

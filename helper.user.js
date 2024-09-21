@@ -64,7 +64,7 @@
       for (let element of elements) {
         let text = element.innerText.trim();
         text = normalizeText(text);
-        if (text.includes(value)) {
+        if (text === value) {
           element.style.backgroundColor = "#00ff00";
           console.log("Highlight answer:", value);
           break;

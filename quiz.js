@@ -43,6 +43,8 @@ quiz = {
     [
       "These measures should have been communicated to key stakeholders as they became available.",
     ],
+  "A project manager for a life insurance company is trying to complete a package application implementation project":
+    ["Functional"],
   "A project manager who remains calm under pressure, thinks before they act, can put themselves in the other person's shoes, and n":
     ["Emotional intelligence"],
   "A project team member has been with the organization for only a short time. You explain that the change control system is specif":
@@ -159,19 +161,18 @@ quiz = {
     ],
   "As the project manager, you will be responsible for several components of the schedule, well in advance of the execution of real":
     ["Contract payment terms"],
-  "As you are performing data analysis of your stakeholder, it becomes apparent tht some stakeholders are resistant to this project":
-    [
-      "Schedule a meeting with them and clearly outline the goals of the project as per the project charter and discuss the items in th",
-    ],
-  "Assuring that you are working within a high-performance team is part of the project manager's role. Of the following, which is t":
-    ["Directing the team''s daily activities through clear instructions"],
+  "As you are performing data analysis of your stakeholders": [
+    "Schedule a meeting with them and clearly outline the goals",
+  ],
+  "Assuring that you are working within a high-performance team is part of the project manager's role.":
+    ["Directing the team's daily activities through clear instructions"],
   "At the beginning of a project, the sponsor/owner and project manager frequently get together with the team to identify stakehold":
     ["Resistant"],
   "At the beginning of the project, the team has assembled a list of all requirements and measurements that will be used to address":
     [
       "Check with the product owner and make sure that they verify requirements.",
     ],
-  "At the initial stages of a project plan, the team will need to determine how delivery will be made. This could be in a single la":
+  "At the initial stages of a project plan, the team will need to determine how delivery will be made.":
     [
       "The opening of a new retail store with grocery, clothing, and automotive sections",
     ],
@@ -304,6 +305,8 @@ quiz = {
     ["True"],
   "From iteration to iteration, a team will face challenges. The project leader will focus on helping the team members to overcome":
     ["Spike"],
+  "From the following table, which stakeholder will be the project manager's highest priority stakeholder to reach out to?":
+    ["Stakeholder A"],
   "Global projects now require resources that did not meet the expectations of project managers years ago. They require more flexib":
     ["Caves and commons"],
   "Governance of a project needs to be kept as private as possible to avoid information escaping the organization.":
@@ -320,7 +323,7 @@ quiz = {
   ],
   "If an organization is comfortable with most uncertainty and accepts risk as a normal part of doing business and projects, how yo":
     ["Risk-tolerant"],
-  "If senior management doesn't want youto spend time writing a project charter because they dorit see the value, what should you d":
+  "If senior management doesn't want you to spend time writing a project charter":
     ["Review the benefits of the project charter with them."],
   "If there are several different decisions to be made and the consequences of each affect the next decision, what would be the bes":
     ["Decision tree"],
@@ -458,6 +461,16 @@ quiz = {
     [
       "Processing all conditions without expressing any feeling so as to keep things professional",
     ],
+  "Of the following, who would be considered a stakeholder on a project?": [
+    "End users of your product",
+    "Government agencies that need to approve the final deliverable",
+    "PMO",
+    "Senior management of your organization",
+    "Steering committee",
+    "The project manager",
+    "The project team",
+    "Vendors and suppliers",
+  ],
   "Often, project teams are expected to provide an interpretation of results and status over time. Of the following, when you're wo":
     ["Work performance expectations"],
   "One of the characteristics of an agile project is that the team is continuously trying to find ways of improving efficiency. Whi":
@@ -876,6 +889,9 @@ quiz = {
   "What are the key skills a project manager needs to be successful?": [
     "Leadership, technical project management, business acumen",
   ],
+  "What are the process groups of project management?": [
+    "Initiating, planning, executing, monitoring and controlling, and closing",
+  ],
   "What are the response options for dealing with threats?": [
     "Escalate, Transfer, Accept, Avoid, and Mitigate",
   ],
@@ -886,6 +902,9 @@ quiz = {
     [
       "Produces a unique product, service, or result and is a temporary endeavor",
     ],
+  "What are three different types of PMOs?": [
+    "Supportive, controlling, directive",
+  ],
   "What are three management techniques that can improve team performance?": [
     "Develop a team charter, set up a team collaboration environment, share leadership responsibilities",
   ],
@@ -991,6 +1010,9 @@ quiz = {
     "Throughout the project",
   ],
   "When should you stop idenifying stakeholders on a project?": [
+    "When the project is closed",
+  ],
+  "When should you stop identifying stakeholders on a project?": [
     "When the project is closed",
   ],
   "When starting a project, the team with which you are working is focused on the methods that will be used throughout the project.":
@@ -1178,7 +1200,7 @@ quiz = {
   "Which of the following is the least likely reason that work is provided in a time-box format for the majority of agile projects?":
     ["To ensure specific dates are met on a regular basis"],
   "Which of the following is work performance information?": [
-    "We are 10 percent over budget.",
+    '"We are 10 percent over budget."',
   ],
   "Which of the following items are least likely to be used when there is a contract dispute? (Choose two.)":
     [
@@ -1229,7 +1251,7 @@ quiz = {
     ],
   "Which of the following statements is not true regarding the relationship between project deliverables, delivery cadence, develop":
     [
-      "Aproject life cycle cannot include multiple development approaches and delivery cadences.",
+      "A project life cycle cannot include multiple development approaches and delivery cadences.",
     ],
   "Which of the following terms are for the specific ceremony where members meet for 15 minutes each day to discuss action and issu":
     ["Daily Scrum", "Daily standup"],
