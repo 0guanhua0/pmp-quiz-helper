@@ -17,6 +17,10 @@ https://raw.githubusercontent.com/0guanhua0/pmp-quiz-helper/refs/heads/main/help
 
 [guide](https://www.tampermonkey.net/faq.php?locale=en#Q102)
 
+3. check browser console
+
+![console](./pic/console.png)
+
 ## retake
 if error, retake can refresh the score
 ![retake](./pic/retake.png)
